@@ -57,6 +57,7 @@ app.post('/api/workouts', (req, res) => {
 // Route to populate workout dashboard
 app.get("/api/workouts/range", (req, res) => {
   db.Workout.find({})
+    .limit(7)
     .then(dbWorkout => {
       res.json(dbWorkout);
     })
