@@ -7,3 +7,5 @@
 A consumer will reach their fitness goals more quickly when they track their workout progress.
 
 https://burn-da-workout-tracker.herokuapp.com/
+![Screenshot](./public/icons/Capture1.PNG)
+![Screenshot](./public/icons/Capture2.PNG)
